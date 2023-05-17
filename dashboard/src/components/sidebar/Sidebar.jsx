@@ -67,8 +67,8 @@ const Sidebar = () => {
 					</Link>
 					<Link to="/products" style={{ textDecoration: "none" }}>
 						<li>
-							<TaskAltIcon className="icon" />
-							<span>Products</span>
+							<AddTaskIcon className="icon" />
+							<span>Register Claim</span>
 						</li>
 					</Link>
 					{/* <li>
